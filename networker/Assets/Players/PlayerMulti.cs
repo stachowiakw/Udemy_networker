@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 using UnityEngine.Networking;
 
-public class Player : NetworkBehaviour {
+public class PlayerMulti : NetworkBehaviour {
 
     private Vector3 inputValue;
 

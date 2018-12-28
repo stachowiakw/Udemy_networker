@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networker", "Assembly-CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networker", "Assembly-CSharp-Editor-firstpass.csproj", "{4488804B-6699-81BF-9DC0-46657F82492E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networker", "Assembly-CSharp-Editor.csproj", "{3F55FDBC-C53C-F78D-C31D-FE95789613CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{4488804B-6699-81BF-9DC0-46657F82492E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4488804B-6699-81BF-9DC0-46657F82492E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4488804B-6699-81BF-9DC0-46657F82492E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F55FDBC-C53C-F78D-C31D-FE95789613CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F55FDBC-C53C-F78D-C31D-FE95789613CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F55FDBC-C53C-F78D-C31D-FE95789613CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F55FDBC-C53C-F78D-C31D-FE95789613CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
